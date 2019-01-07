@@ -1,0 +1,15 @@
+{
+  "name": "web-comparator",
+  "version": "1.0.0",
+  "description": "Website comparison tool using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Crouch",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "puppeteer": "^1.11.0"
+  }
+}
